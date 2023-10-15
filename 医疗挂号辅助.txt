@@ -22,3 +22,15 @@
 挂号且科室不同，认定此次推荐失败，并将该数据加入样本，加强学习。然后针对路线推荐，若患者按照推荐路线做完对应项目检查，总时间不超过
 推荐路线预测时间，或超时部分不超过10%（待定），认定此次路线推荐有效；若超时严重，认定此次推荐时间无效。
     医疗挂号辅助的数据集为患者身上表现出病痛的外在特征图片。
+
+    相关数据集：
+    加州大学收集的相关生物学数据集：
+    Datasets - UCI Machine Learning Repository
+    中文医学问答数据集：
+    Chinese Medical Question and Answer Dataset_数据集-阿里云天池 (aliyun.com)
+    生物医学实体标准化数据集：
+    Biomedical Entity Normalization Dataset_数据集-阿里云天池 (aliyun.com)
+    国家人口健康科学数据中心：
+    https://link.zhihu.com/?target=https%3A//www.ncmi.cn/
+    相关的数据集都需要再进一步的标注。
+
